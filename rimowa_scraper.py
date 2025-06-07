@@ -20,7 +20,7 @@ from datetime import datetime
 import pandas as pd
 
 # ── MongoDB Configuration ────────────────────────────────────────
-MONGODB_CONNECTION = "mongodb+srv://admin:admin@test1.dtdvrje.mongodb.net/?retryWrites=true&w=majority&appName=Test1"
+MONGODB_CONNECTION = "<insert string here>"
 DB_NAME = "rimowa_luggage"
 COLLECTION_UNIQUE = "rimowa"
 COLLECTION_ALL = "rimowa_all"
